@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1556294532 source:/mnt/407242D87242D1F8/study/hackerRank/class/customer.c
+	"customer.h"
+	<stdlib.h>
+
+1556294503 /mnt/407242D87242D1F8/study/hackerRank/class/customer.h
+

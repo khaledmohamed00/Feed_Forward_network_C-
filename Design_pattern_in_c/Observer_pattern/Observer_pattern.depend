@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1556817053 source:/mnt/407242D87242D1F8/study/hackerRank/Observer_pattern/AverageScoreDisplay.c
+	<stdlib.h>
+	<stdio.h>
+	"Observer.h"
+	"AverageScoreDisplay.h"
+
+1556816000 /mnt/407242D87242D1F8/study/hackerRank/Observer_pattern/Observer.h
+
+1556816757 /mnt/407242D87242D1F8/study/hackerRank/Observer_pattern/AverageScoreDisplay.h
+
+1556817662 source:/mnt/407242D87242D1F8/study/hackerRank/Observer_pattern/CricketData.c
+	"Observer.h"
+	"CricketData.h"
+	"Subject.h"
+	"stdlib.h"
+
+1556816259 /mnt/407242D87242D1F8/study/hackerRank/Observer_pattern/CricketData.h
+
+1556814704 /mnt/407242D87242D1F8/study/hackerRank/Observer_pattern/Subject.h
+
+1556816715 source:/mnt/407242D87242D1F8/study/hackerRank/Observer_pattern/CurrentScoreDisplay.c
+	"Observer.h"
+	"CurrentScoreDisplay.h"
+
+1556816119 /mnt/407242D87242D1F8/study/hackerRank/Observer_pattern/CurrentScoreDisplay.h
+
+1556817671 source:/mnt/407242D87242D1F8/study/hackerRank/Observer_pattern/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Observer.h"
+	"AverageScoreDisplay.h"
+	"CurrentScoreDisplay.h"
+	"CricketData.h"
+	"Subject.h"
+

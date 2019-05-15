@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1556726243 source:/mnt/407242D87242D1F8/study/hackerRank/Inheritance/main.c
+	<stdio.h>
+	<stdlib.h>
+	"super_class.h"
+	"sub_class.h"
+
+1556731501 /mnt/407242D87242D1F8/study/hackerRank/Inheritance/super_class.h
+
+1556731501 source:/mnt/407242D87242D1F8/study/hackerRank/Inheritance/sub_class.c
+	"super_class.h"
+	"sub_class.h"
+	<stdlib.h>
+
+1556731360 source:/mnt/407242D87242D1F8/study/hackerRank/Inheritance/super_class.c
+	"super_class.h"
+	<stdlib.h>
+
+1556731501 /mnt/407242D87242D1F8/study/hackerRank/Inheritance/sub_class.h
+

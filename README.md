@@ -1,4 +1,8 @@
 # Feed_Forward_network_C-
+![GitHub Logo](figure1.png)
+Format: ![Alt Text](url)
+
+
 You’ll read from a file: the number of layers, number of neurons per each layer, the
 values of the input layer and the weights.
 File format:

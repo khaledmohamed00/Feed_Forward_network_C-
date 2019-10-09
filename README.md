@@ -1,6 +1,6 @@
-# Feed_Forward_network_C-
+# Feed_Forward_network_C++
 ![GitHub Logo](figure1.png)
-Format: ![Alt Text](url)
+Format: ![figure1](url)
 
 
 You’ll read from a file: the number of layers, number of neurons per each layer, the

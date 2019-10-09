@@ -10,12 +10,12 @@ layer.
 * Each of the following lines will contain the weights on the connections
 between the neuron and all the neurons in the next layer.
 Here’s an example of a file that contains the neural network in figure 1:
-3 3 2 3
-1 2 3
-0.12 0.54
-0.87 0.34
-0.69 0.2
-0.31 0.123 0.154
-0.77 0.34 0.456
-expected output :
-2.6197 1.10219 1.43514
+* 3 3 2 3
+* 1 2 3
+* 0.12 0.54
+* 0.87 0.34
+* 0.69 0.2
+* 0.31 0.123 0.154
+* 0.77 0.34 0.456
+* expected output :
+* 2.6197 1.10219 1.43514
